@@ -13,6 +13,7 @@ This project showcases characters from the popular TV show "Rick and Morty" usin
 
    ```bash
    git clone https://github.com/lesleydw/online_assessment_rick_and_morty.git
+   cd online_assessment_rick_and_morty (optional)
    cd rick-and-morty-feed
     ```
 2. **Install dependencies**:
